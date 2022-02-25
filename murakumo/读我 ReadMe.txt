@@ -1,6 +1,2 @@
-±¾Ä£ÐÍ¿É½áºÏ Typecho¡¢WordPress¡¢EMLOG µÈÆ½Ì¨µÄ²å¼þÊ¹ÓÃ¡£
-
-ÏêÏ¸½Ì³Ì¿ÉÒÔ·ÃÎÊ±¾Õ¾ÔÄ¶Á£¡
-
-»¶Ó­¶à¶àÖ§³ÖÃÎÏó Live2D Ä£ÐÍÕ¾~
-µØÖ·£ºhttps://mx.paugram.com
+æœ¬æ¨¡åž‹å¯ç»“åˆ Typechoã€WordPressã€EMLOG ç­‰å¹³å°çš„æ’ä»¶ä½¿ç”¨ã€‚
+https://mx.paugram.com
